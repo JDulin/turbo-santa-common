@@ -23,8 +23,6 @@ Go into the project:
 
     $ cd turbo-santa-common
 
-Get the submodules:
-
 Go to your bazel base\_workspace and copy the symlinks that bazel needs to
 function:
 
